@@ -27,7 +27,7 @@ Here are some of the technologies and tools I work with:
 
 - **Libraries/Frameworks**: 
   ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white)
-  ![SciPy](https://img.shields.io/badge/-SciPy-8CAAE6?logo=scipy&logoColor=white)
+  ![SymPy](https://img.shields.io/badge/-SymPy-8CAAE6?logo=sympy&logoColor=white)
   ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?logo=matplotlib&logoColor=white)
 
 ---
@@ -42,17 +42,16 @@ Here are some of the technologies and tools I work with:
 ### 🚀 Featured Projects
 Here are some of the projects I'm proud of:
 
-- **[ODE Solver in Python](link-to-repo)**: A Python implementation of numerical methods for solving ordinary differential equations.
-- **[Web-Based Calculator](link-to-repo)**: A simple calculator built using HTML, CSS, and JavaScript.
-- **[MATLAB Simulations](link-to-repo)**: A collection of MATLAB scripts for simulating physical systems.
+- **[ODE Solver in Python](https://github.com/Amr-Ma7moud/ODE-Solver.git)**: A Python implementation of numerical methods for solving ordinary differential equations.
+- **[Project_U](https://github.com/Amr-Ma7moud/Project_U.git)**: A simple universitiy recommendation system that help students choose thier path.
+- **[Book-Store](https://github.com/Amr-Ma7moud/Book-Store.git)**: A collection of MATLAB scripts for simulating physical systems.
 
 ---
 
 ### 🌟 Let's Connect!
 Feel free to reach out to me or follow me on:
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](your-linkedin-profile)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white)](your-twitter-profile)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)]( https://www.linkedin.com/in/amr-mahmoud-/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/Amr-Ma7moud)
 
 ---

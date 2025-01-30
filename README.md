@@ -26,6 +26,7 @@ Here are some of the technologies and tools I work with:
   ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white)
 
 - **Libraries/Frameworks**: 
+  ![Flask](https://img.shields.io/badge/-Flask-013243?logo=flask&logoColor=white)
   ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white)
   ![SymPy](https://img.shields.io/badge/-SymPy-8CAAE6?logo=sympy&logoColor=white)
   ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?logo=matplotlib&logoColor=white)
@@ -62,5 +63,4 @@ Feel free to reach out to me or follow me on:
 - [Getting Started with MATLAB for Engineers](link-to-blog-post)
 
 ---
-
-Thanks for visiting my profile! Have a great day! 😄
+Have a great day! 😄

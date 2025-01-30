@@ -44,6 +44,7 @@ Here are some of the projects I'm proud of:
 
 - **[ODE Solver in Python](https://github.com/Amr-Ma7moud/ODE-Solver.git)**: A Python implementation of numerical methods for solving ordinary differential equations.
 - **[Project_U](https://github.com/Amr-Ma7moud/Project_U.git)**: A simple universitiy recommendation system that help students choose thier path.
+- **[Tic-Tac-Toe](https://github.com/Amr-Ma7moud/Tic-Tac-Toe.git)**: A collection of MATLAB scripts for simulating physical systems.
 - **[Book-Store](https://github.com/Amr-Ma7moud/Book-Store.git)**: A collection of MATLAB scripts for simulating physical systems.
 
 ---

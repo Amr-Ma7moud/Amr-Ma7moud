@@ -2,10 +2,10 @@
 
 ### About Me
 - 🔭 I’m currently working on **ODE solvers and numerical methods**.
-- 🌱 I’m currently learning **advanced numerical techniques and optimization**.
-- 👯 I’m looking to collaborate on **open-source projects related to scientific computing**.
-- 💬 Ask me about **Python, C++, MATLAB, or web development (HTML/CSS)**.
-- 📫 How to reach me: **[3mrma7mood@gmail.com]**.
+- 🌱 I’m currently learning **Android Development**.
+- 👯 I’m looking to collaborate on **open-source projects**.
+- 💬 Ask me about **Python, C++, Kotlin, Java, PHP, MATLAB, or web development (HTML/CSS/JS)**.
+- 📫 How to reach me: **[AmrMahmoudDev05#gmail.com]**.
 - ⚡ Fun fact: **I love solving complex problems and turning them into elegant solutions!**
 
 ---

@@ -1,0 +1,37 @@
+name: Metrics
+on:
+  # Updates automatically every day at midnight
+  schedule: [{cron: "0 0 * * *"}]
+  # Allows you to run it manually from the Actions tab
+  workflow_dispatch:
+  # Updates when you push to the master/main branch
+  push: {branches: ["master", "main"]}
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          # You need to generate a Personal Access Token (PAT) in GitHub settings 
+          # and save it in your repository secrets as METRICS_TOKEN
+          token: ${{ secrets.METRICS_TOKEN }}
+          
+          # Output file
+          filename: github-metrics.svg
+          
+          # Base settings
+          config_timezone: Africa/Cairo
+          base: header, activity, community, repositories, metadata
+          
+          # Plugin: Languages (Shows your most used languages like TypeScript, Python)
+          plugin_languages: yes
+          plugin_languages_ignored: html, css
+          plugin_languages_details: bytes-size, percentage
+          
+          # Plugin: Habits (Shows what time of day you usually code)
+          plugin_habits: yes
+          plugin_habits_from: 200
+          plugin_habits_days: 14
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes

@@ -69,11 +69,11 @@
     </text>
     <text x="350" y="313" opacity="0"><animate attributeName="opacity" values="0;1" dur="0.1s" begin="1.2s" fill="freeze" />
       <tspan fill="#00d7a7" font-weight="bold">Backend:</tspan>
-      <tspan fill="#e6e6e6">&#160;TS,&#160;Node.js,&#160;NestJS,&#160;Python,&#160;Laravel</tspan>
+      <tspan fill="#e6e6e6">&#160;TS,&#160;Node.js,&#160;NestJS,&#160;Java,&#160;Python,&#160;Laravel</tspan>
     </text>
     <text x="350" y="337" opacity="0"><animate attributeName="opacity" values="0;1" dur="0.1s" begin="1.3s" fill="freeze" />
       <tspan fill="#00d7a7" font-weight="bold">Database:</tspan>
-      <tspan fill="#e6e6e6">&#160;PostgreSQL,&#160;MySQL,&#160;Redis</tspan>
+      <tspan fill="#e6e6e6">&#160;PostgreSQL,&#160;MariaDB,&#160;Redis</tspan>
     </text>
     <text x="350" y="361" opacity="0"><animate attributeName="opacity" values="0;1" dur="0.1s" begin="1.4s" fill="freeze" />
       <tspan fill="#00d7a7" font-weight="bold">DevOps:</tspan>

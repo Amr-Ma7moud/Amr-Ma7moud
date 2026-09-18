@@ -91,7 +91,7 @@ const svgTemplate = `<svg width="900" height="${canvasHeight}" viewBox="0 0 900 
 
   <!-- ASCII Art -->
   <g font-family="monospace" font-size="15" font-weight="bold" fill="#00d7a7">
-    <text x="80" y="225" opacity="0"><animate attributeName="opacity" values="0;1" dur="0.1s" begin="0.2s" fill="freeze" />&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;__&#160;&#160;&#160;__&#160;&#160;__&#160;_____</text>
+    <text x="80" y="225" opacity="0"><animate attributeName="opacity" values="0;1" dur="0.1s" begin="0.2s" fill="freeze" />&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;__&#160;&#160;&#160;__&#160;&#160;__&#160;______</text>
     <text x="80" y="249" opacity="0"><animate attributeName="opacity" values="0;1" dur="0.1s" begin="0.3s" fill="freeze" />&#160;&#160;&#160;&#160;&#160;&#160;/&#160;_&#160;\\&#160;|&#160;&#160;\\\/&#160;&#160;||&#160;___&#160;\\</text>
     <text x="80" y="273" opacity="0"><animate attributeName="opacity" values="0;1" dur="0.1s" begin="0.4s" fill="freeze" />&#160;&#160;&#160;&#160;&#160;/&#160;/_\\&#160;\\|&#160;.&#160;&#160;.&#160;||&#160;|_/&#160;/</text>
     <text x="80" y="297" opacity="0"><animate attributeName="opacity" values="0;1" dur="0.1s" begin="0.5s" fill="freeze" />&#160;&#160;&#160;&#160;&#160;|&#160;&#160;_&#160;&#160;||&#160;|\\/|&#160;||&#160;&#160;&#160;&#160;/</text>

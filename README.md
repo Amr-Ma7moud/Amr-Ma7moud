@@ -1,4 +1,4 @@
-# Hi, I'm Amr 👋
+# Hi, I'm Amr
 
 ### Backend Developer • DevOps Engineer in Progress
 
@@ -10,13 +10,15 @@ Currently working with **TypeScript, NestJS, Docker, Kubernetes, Linux, and AWS*
   <img src="./assets/terminal.svg" alt="Amr's Terminal Info" />
 </div>
 
-### 📊 GitHub Metrics
+### <img src="./assets/metrics-icon.svg" width="28" /> GitHub Metrics
 
-![Metrics](./github-metrics.svg)
+<div align="center">
+  <img src="./github-metrics.svg" alt="GitHub Metrics" />
+</div>
 
 ---
 
-### 🌐 Connect
+### <img src="./assets/connect-icon.svg" width="28" /> Connect
 
 [LinkedIn](https://linkedin.com/in/amr-mahmoud-) • [Portfolio](https://amr-mahmoud.me)
 

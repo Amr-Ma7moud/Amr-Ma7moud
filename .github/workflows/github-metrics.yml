@@ -1,0 +1,37 @@
+name: Generate GitHub Metrics
+
+on:
+  # Update automatically every day at midnight
+  schedule:
+    - cron: "0 0 * * *"
+  # Allow running manually from the Actions tab
+  workflow_dispatch:
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Generate Metrics SVG
+        uses: lowlighter/metrics@latest
+        with:
+          # Automatically uses the built-in token provided by GitHub Actions
+          token: ${{ secrets.GITHUB_TOKEN }}
+          
+          # Core Options
+          user: Amr-Ma7moud
+          template: classic
+          base: header, activity, community, repositories
+          config_timezone: UTC
+          optimize: css, xml
+          repositories_forks: false
+          
+          # Aesthetics
+          config_animations: yes
+          
+          # Languages Plugin
+          plugin_languages: yes
+          plugin_languages_ignored: html, css
+          plugin_languages_details: percentage
+          plugin_languages_limit: 6

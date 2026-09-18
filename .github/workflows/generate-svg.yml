@@ -1,0 +1,33 @@
+name: Generate Terminal SVG
+
+on:
+  push:
+    paths:
+      - 'data.json'
+      - 'generate-svg.js'
+
+jobs:
+  build-and-commit:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Generate SVG
+        run: node generate-svg.js
+
+      - name: Commit and Push changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: automatically generate terminal.svg"
+          file_pattern: "assets/terminal.svg"

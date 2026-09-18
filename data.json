@@ -1,0 +1,23 @@
+{
+  "header": {
+    "title": "NEOFETCH",
+    "subtitle": "I use arch BTW"
+  },
+  "prompt": {
+    "user": "amr",
+    "host": "archlinux",
+    "command": "neofetch"
+  },
+  "info": [
+    { "key": "Role", "value": "Backend Developer & DevOps" },
+    { "key": "Focus", "value": "Scalable & Maintainable Systems" },
+    { "key": "Backend", "value": "TS, Node.js, NestJS, Java, Python, Laravel" },
+    { "key": "Database", "value": "PostgreSQL, MariaDB, Redis" },
+    { "key": "DevOps", "value": "Linux, Docker, K8s, Ansible, AWS" },
+    { "key": "Arch", "value": "REST APIs, Clean Arch, Dist. Systems" },
+    { "key": "Building", "value": "University Information System" },
+    { "key": "Building", "value": "AI-powered backend systems" },
+    { "key": "LinkedIn", "value": "linkedin.com/in/amr-mahmoud-" },
+    { "key": "Portfolio", "value": "amr-mahmoud.me" }
+  ]
+}
